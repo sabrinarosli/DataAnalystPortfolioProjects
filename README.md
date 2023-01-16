@@ -10,4 +10,4 @@
 **Tableau:**
 * Netflix: <br /> 
   _See on Tableau Public:_ **[DASHBOARD](https://public.tableau.com/app/profile/nur.sabrina.rosli/viz/NetflixPractice_16739026221050/Netflix#1)**<br />
-  ![Netflix Dashboard]()
+  ![Netflix Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Netflix.png)
