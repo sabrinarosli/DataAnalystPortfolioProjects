@@ -3,7 +3,7 @@
 
 **SQL:**
 * Titanic Data Exploration Report: <br /> 
-  _Review the report:_ **[HERE]()**<br />
+  _Review the report:_ **[HERE](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur%20Sabrina_SQL%20Titanic%20Report.pdf)**<br />
 * COVID-19 Data Exploration: <br /> 
   _Review the script:_ **[HERE](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Covid-19%20Data%20Exploration.sql)**<br />
 * Nashville Housing Data Cleaning: <br /> 
