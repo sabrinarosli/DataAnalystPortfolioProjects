@@ -1,5 +1,5 @@
 # Welcome to Sabrina's Portfolio projects
-## Following are my projects in SQL, Tableau, Power BI:
+## Following are my projects in SQL, Tableau, Power BI, Excel:
 
 **SQL:**
 * Titanic Data Exploration Report: <br /> 
@@ -19,3 +19,9 @@
   _See on Power BI:_ **[DASHBOARD](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown.pbix)**<br />
    _Review on pdf:_ **[HERE](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown.pdf)**<br />
   ![Data Professional Survey Breakdown Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown_page-0001.jpg)
+  
+**Excel:**
+* Bike Sales Dashboard: <br /> 
+  _Kindly download the excel file and view them in Microsoft Excel:_ **[HERE](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Bike%20Sales%20Excel%20Portfolio.xlsx)**<br />
+  
+  ![Bike Sales Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Bike%20Sales%20Dashboard.jpeg) <br />
