@@ -1,5 +1,5 @@
 # Welcome to Sabrina's Portfolio projects
-## Following are my projects in SQL, Tableau:
+## Following are my projects in SQL, Tableau, Power BI:
 
 **SQL:**
 * Titanic Data Exploration Report: <br /> 
@@ -13,3 +13,9 @@
 * Netflix: <br /> 
   _See on Tableau Public:_ **[DASHBOARD](https://public.tableau.com/app/profile/nur.sabrina.rosli/viz/NetflixPractice_16739026221050/Netflix#1)**<br />
   ![Netflix Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Netflix%20Dashboard.png)
+  
+**Power BI:**
+* Data Professional Survey Breakdown: <br /> 
+  _See on Power BI:_ **[DASHBOARD](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown.pbix)**<br />
+   _Review on pdf:_ **[HERE](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown.pdf)**<br />
+  ![Data Professional Survey Breakdown Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown_page-0001.jpg)
