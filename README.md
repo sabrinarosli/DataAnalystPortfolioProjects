@@ -20,9 +20,9 @@
    _Review on pdf:_ **[HERE](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown.pdf)**<br />
   ![Data Professional Survey Breakdown Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Power%20BI_Data%20Professional%20Survey%20Breakdown_page-0001.jpg)
   
- * Traffic Road Accident in Malaysia: <br /> *
+ * Traffic Road Accident in Malaysia: <br /> 
  _See on Power BI:_ **[DASHBOARD]()**<br />
-  ![Traffic Road Accident in Malaysia Dashboard]()
+  ![Traffic Road Accident in Malaysia Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/TRAFFIC%20ACCIDENTS%20MALAYSIA%20VIZ%2002.PNG)
   
 **Excel:**
 * Bike Sales Dashboard: <br /> 
