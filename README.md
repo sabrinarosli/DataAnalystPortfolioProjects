@@ -10,9 +10,9 @@
   ![Bugatti Analysis](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur%20Sabrina_Bugatti_Slides%202.jpg)**<br />
   ![Bugatti Analysis](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur%20Sabrina_Bugatti_Slides%203.jpg)**<br />
   
-# 🚀 Automate Data Updates with Power Query  
+**🚀 Automate Data Updates with Power Query:**  
 
-### Say Goodbye to Copy-Pasting!  
+* Say Goodbye to Copy-Pasting!  
 Tired of manually updating spreadsheets? Many companies waste time on repetitive data tasks when **Power Query** can do it in seconds! Just **hit refresh**, and your data, tables, and graphs update instantly—no manual work needed.  
 
 ### Why Power Query?  
@@ -27,7 +27,7 @@ Tired of manually updating spreadsheets? Many companies waste time on repetitive
 
 ### Preview (Before and After Refresh)
 _Before:_ ![Before](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/After%202.PNG)**<br />
-_After:_ ![After](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Final%202.PNG)**<br />  
+_After:_ ![After](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Final%202.PNG) 
 _Notes:_ The highlighted yellow is the new added data after load the data in the created folder and hit refresh!**<br /> 
 
 💡 **Efficiency starts here.** Let your data work for you!  
