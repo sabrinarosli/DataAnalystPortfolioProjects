@@ -4,7 +4,7 @@
 **Looker Studio:**
 * Bugatti's Employee Demographics and Compensation Overview: <br /> 
   _See on Looker Studio:_ **[DASHBOARD](https://lookerstudio.google.com/u/0/reporting/47e05db3-a867-444e-9ac2-013d52f7292c/page/fzj7D)**<br />
-  ![Bugatti Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur_Sabrina_Bugatti-pdf-image.png)**<br />
+  ![Bugatti Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur_Sabrina_Bugatti-pdf-image.png)<br />
   _Review Analysis on Google Slides:_ **[LINK](https://docs.google.com/presentation/d/1_Q49sbgTNkv6Ui88kJA9didQsOn7pmNvPTMMwfhHv2A/edit#slide=id.p)**<br />
   ![Bugatti Analysis](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur%20Sabrina_Bugatti_Slides%201.jpg)**<br />
   ![Bugatti Analysis](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur%20Sabrina_Bugatti_Slides%202.jpg)**<br />
