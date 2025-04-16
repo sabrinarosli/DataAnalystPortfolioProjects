@@ -8,7 +8,7 @@
   ![Bugatti Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Nur_Sabrina_Bugatti-pdf-image.png)<br />
 * Chagee's Sales Dashboard: <br /> 
   _See on Looker Studio:_ **[DASHBOARD](https://lookerstudio.google.com/reporting/a978a7f4-56c5-4819-96f1-b697ff09718a)**<br />
-  ![Chagee's Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Chagee's%20Sales%20Dashboard.PNG)<br />
+  ![Chagee's Dashboard](https://github.com/sabrinarosli/DataAnalystPortfolioProjects/blob/main/Chagee's%20Sales%20Dashboard%202.PNG)<br />
     
   
 # 🚀 Automate Data Updates with Power Query
